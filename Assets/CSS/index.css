@@ -33,7 +33,7 @@ button{
 
 .banner{
 	position: absolute;
-	background-image: url(../img/ban1.jpg);
+	background-image: url(./img/ban1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 40% 60%;
